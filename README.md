@@ -1,2 +1,2 @@
-# first-project-first
-Simple practice project for web development and university coursework.
+# My First Project
+Welcome to my GitHub profile! This repository is dedicated to practice code and student learning.
